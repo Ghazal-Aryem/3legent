@@ -1,0 +1,11 @@
+react-router-dom
+styled-components
+react-icons
+framer-motion
+swiper
+swiper/react swiper/css
+tailwindcss @tailwindcss/vite  
+axios
+react-loader-spinner
+redux-persist
+reduxjs/toolkit react-redux

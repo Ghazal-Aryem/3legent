@@ -1,0 +1,419 @@
+
+[
+    {
+      "id": 1,
+      "name": "Off-white Pillow",
+      "price": 19.00,
+      "originalPrice": 13.00,
+      "rating": 5,
+      "badge": "NEW",
+      "discount": "-50%",
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Super-soft cushion cover in off-white with a tactile pattern that enhances the different tones in the pile and base.",
+      "category": "Clothing & Rainwear",
+      "collection": "women",
+      "reviewCount": 0 , 
+      "review": [
+        {
+          "rating": 5,
+          "userId": "user1",
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "userId": "user2",
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":4 ,"name" : "Green"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Greg Norman - Men's Shark Logo Golf Polo Shirt",
+      "price": 24.99,
+      "originalPrice": 40.00,
+      "rating": 4,
+      "badge": "HOT",
+      "discount": "-50%",
+      "image": "P2",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Super-soft cushion cover in off-white with a tactile pattern that enhances the different tones in the pile and base.",
+      "category": "Footwear",
+      "collection": "women",
+      "reviewCount": 11 , 
+      "review": [
+        {
+          "userId": "user1",
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "userId": "user2",
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "G/FORE - Mens Left Glove Snow 2023",
+      "price": 30.00,
+      "originalPrice": null,
+      "rating": 3,
+      "badge": "HOT",
+      "discount": null,
+      "image": "P2",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Super-soft cushion cover in off-white with a tactile pattern that enhances the different tones in the pile and base.",
+      "category": "Accessories",
+      "collection": "women",
+      "reviewCount": 14 , 
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ], 
+      "Measurements" : "17 1/2x20 5/8 "
+    },
+    {
+      "id": 4,
+      "name": "Utility Rover-R Double Strap Bag All Black - 2023",
+      "price": 209.99,
+      "originalPrice": 200.00,
+      "rating": 5,
+      "badge": "HOT",
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Easy transportation was the goal when we created this comfy loveseat with durable beige polyester fabric.",
+      "category": "Golf Clubs",
+      "collection": "women",
+      "reviewCount": 11 , 
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ], 
+      "Measurements" : "17 1/2x20 5/8 "
+    },
+    {
+      "id": 5,
+      "name": "Air Jordan 1 Low Golf Iron Grey - SS23",
+      "price": 111.99,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": "HOT",
+      "discount": "-50%",
+      "image": "P2",
+      "images": [
+        { "id": 1, "url": "P2" },
+        { "id": 2, "url": "P1" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Super-soft cushion cover in off-white with a tactile pattern that enhances the different tones in the pile and base.",
+      "category": "Golf Clubs",
+      "collection": "men",
+      "reviewCount": 11,
+      "review": [
+        {
+          "rating": 5,
+          "userId": "user1",
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "userId": "user2",
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ], 
+      "Measurements" : "17 1/2x20 5/8 "
+    },
+    {
+      "id": 6,
+      "name": "Air Jordan 1 Low Golf Iron Grey - SS23",
+      "price": 111.99,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": "HOT",
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Easy transportation was the goal when we created this comfy loveseat with durable beige polyester fabric.",
+      "category": "Golf Clubs",
+      "collection": "men",
+      "reviewCount": 11 , 
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black" , "url" : "A1"},
+        {"id":3 ,"name" : "Blue" , "url" : "A2"},
+        {"id":3 ,"name" : "Green" , "url" : "A3"}
+      ], 
+      "Measurements" : "17 1/2x20 5/8 "
+    },
+    {
+      "id": 7,
+      "name": "Table Lamp",
+      "price": 39.99,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": "NEW",
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Like small jewels in shiny brass and gray clear glass, spread a soft mood light that creates exciting shadows on walls and ceilings",
+      "category": "Golf Clubs",
+      "collection": "men",
+      "reviewCount": 0 , 
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "White Drawer unit",
+      "price": 89.99,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": null,
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Super-soft cushion cover in off-white with a tactile pattern that enhances the different tones in the pile and base.",
+      "category": "Golf Clubs",
+      "collection": "men",
+      "reviewCount": 0 ,
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ], 
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cozy Sofa",
+      "price": 299.00,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": "NEW",
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Easy transportation was the goal when we created this comfy loveseat with durable beige polyester fabric.",
+      "category": "Golf Clubs",
+      "collection": "junior",
+      "reviewCount": 0 , 
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Bamboo Basket",
+      "price": 9.99,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": null,
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "With its soft shape and color, this spacious basket is just as decorative wherever you choose to put it.",
+      "category": "Golf Balls",
+      "collection": "junior",
+      "reviewCount": 0  , 
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+           "likes": 10,
+          "date": "2023-10-01"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for money.",
+          "likes": 5,
+          "date": "2023-10-02"
+        }
+      ],
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Black Tray table",
+      "price": 19.19,
+      "originalPrice": null,
+      "rating": 5,
+      "badge": null,
+      "discount": null,
+      "image": "P1",
+      "images": [
+        { "id": 1, "url": "P1" },
+        { "id": 2, "url": "P2" },
+        { "id": 3, "url": "P3" }
+      ],
+      "description": "Easy to love at a price that's hard to resist. Buy one or buy a few and make every space where you sit more convenient.",
+      "category": "Golf Bags",
+      "collection": "junior",
+      "reviewCount": 0 , 
+      "color" : [
+        {"id":1 , "name" : "Black"},
+        {"id":3 ,"name" : "Blue"},
+        {"id":3 ,"name" : "Green"}
+      ], 
+      "Measurements" : "17 1/2x20 5/8 "
+    }
+  ]

@@ -1,0 +1,41 @@
+/* Replace your existing .swiper-button styles with these */
+.swiper-button-prev,
+.swiper-button-next {
+  color: black !important;
+  background: transparent !important;
+  width: 40px;
+  height: 40px;
+  border-radius: 0;
+  box-shadow: none !important;
+  top: 50% !important;
+  transform: translateY(-50%);
+  z-index: 10;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.swiper-button-prev {
+  left: 10px !important;
+}
+
+.swiper-button-next {
+  right: 10px !important;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  opacity: 1;
+  background: transparent !important;
+  transform: translateY(-50%);
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 24px !important;
+  font-weight: normal !important;
+}
+
+/* Remove the pagination bullets if not needed */
+.swiper-pagination {
+  display: none !important;
+}
