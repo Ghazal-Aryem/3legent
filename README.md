@@ -68,11 +68,11 @@ NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_id
 ### Home Page
 | Desktop | Mobile |
 |---------|--------|
-|![Home Screen 1](ScreenShots/home.png) | ![Home Screen 1](ScreenShots/home_mobile.png) |
-![Home Screen 1](ScreenShots/home1.png)
-![Home Screen 1](ScreenShots/home2.png)
-![Home Screen 1](ScreenShots/home3.png)
-![Home Screen 1](ScreenShots/home4.png)
+|![Home Screen 1](ScreenShots/home.png) |![Home Screen 1](ScreenShots/home_mobile.png)|
+|![Home Screen 1](ScreenShots/home1.png)|![Home Screen 1](ScreenShots/home_mobile_1.png)|
+|![Home Screen 1](ScreenShots/home2.png)| ![Home Screen 1](ScreenShots/home_mobile_2.png)|
+|![Home Screen 1](ScreenShots/home3.png)|![Home Screen 1](ScreenShots/home_mobile_3.png)|
+|![Home Screen 1](ScreenShots/home4.png)|![Home Screen 1](ScreenShots/home_mobile_4.png)|
 
 ### Authentication
 | Login Page | Signup Page |
